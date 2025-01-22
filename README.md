@@ -15,3 +15,4 @@ I am a recent college graduate who enjoys software development and is excited to
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/michaelloganrutherford)
+- [Personal Website](https://michaelrutherford.github.io/)
