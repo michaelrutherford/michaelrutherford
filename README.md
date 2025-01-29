@@ -7,7 +7,7 @@
 I am a recent college graduate who enjoys software development and is excited to join a dedicated team of engineers to make an impact in the world.
 
 - 🔭 I’m currently working on [Silvalide](https://github.com/michaelrutherford/silvalide)
-- 🌱 I’m currently learning image processing
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on tape emulation projects
 - 💬 Ask me about Linux or Python!
 - 📫 How to reach me: LinkedIn
