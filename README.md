@@ -15,7 +15,7 @@ I am a recent college graduate who enjoys software development and is excited to
 
 ## Skills
 
-- **Languages:** Python, C++, C
+- **Languages:** Python, C++, C, JavaScript
 - **Tools:** Vim, VS Code, Git
 
 ## Projects
