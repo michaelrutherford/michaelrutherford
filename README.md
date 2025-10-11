@@ -7,7 +7,7 @@
 I am a recent college graduate who enjoys software development and is excited to join a dedicated team of engineers to make an impact in the world.
 
 - 🔭 I’m currently working on [Silvalide](https://github.com/michaelrutherford/silvalide)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Linux desktop apps
 - 💬 Ask me about Linux or Python!
 - 📫 How to reach me: LinkedIn
@@ -15,8 +15,8 @@ I am a recent college graduate who enjoys software development and is excited to
 
 ## Skills
 
-- **Languages:** Python, C++, C, JavaScript
-- **Tools:** Vim, VS Code, Git
+- **Languages:** Python, JavaScript, Ruby, SQL, C/C++
+- **Tools:** Rails, Git, VS Code, CMake
 
 ## Projects
 
