@@ -8,7 +8,6 @@ I am a recent college graduate who enjoys software development and is excited to
 
 - 🔭 I’m currently working on [Silvalide](https://github.com/michaelrutherford/silvalide)
 - 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on Linux desktop apps
 - 💬 Ask me about Linux or Python!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
