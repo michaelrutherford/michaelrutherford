@@ -14,8 +14,8 @@ I am a recent college graduate who enjoys software development and is excited to
 
 ## Skills
 
-- **Languages:** Ruby, Python, JavaScript, SQL, C/C++
-- **Tools:** Rails, Claude Code, Git, VS Code
+- **Languages:** Ruby, Python, JavaScript, SQL, C/C++, Rust
+- **Tools:** Rails, Claude Code, Git, VS Code, RubyMine, PyCharm
 
 ## Projects
 
