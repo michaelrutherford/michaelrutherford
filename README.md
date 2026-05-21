@@ -6,16 +6,16 @@
 
 I am a recent college graduate who enjoys software development and is excited to join a dedicated team of engineers to make an impact in the world.
 
-- 🔭 I’m currently working on [Silvalide](https://github.com/michaelrutherford/silvalide)
+- 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning Ruby on Rails
-- 💬 Ask me about Linux or Python!
+- 💬 Ask me about Ruby or Linux!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Ruby, SQL, C/C++
-- **Tools:** Rails, Git, VS Code, CMake
+- **Languages:** Ruby, Python, JavaScript, SQL, C/C++
+- **Tools:** Rails, Git, VS Code
 
 ## Projects
 
